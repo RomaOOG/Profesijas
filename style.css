@@ -1,8 +1,8 @@
 /*  Mājas lapas dizains. Оформление сайта:background-color- цвет фона, font- шрифт... 
 https://www.w3schools.com/css/default.asp*/
 body {
-    background-color:rgba(229, 250, 171, 0.712);
-    font-family: "Verdana";
+    background-color: rgb(50, 115, 220);
+    font-family: cursive;
     font-size: 13px;
    }
 h1 {
@@ -68,7 +68,7 @@ div {
  #menu{
 width: 20%;
 height:800px;
-background-color:#005c80e1;
+background-color: rgb(50, 115, 220);
 color:rgb(205, 226, 205);
 font-family: Georgia, Arial, Helvetica, sans-serif;
 
@@ -79,7 +79,7 @@ color:rgb(223, 245, 223);
 font-size:150%;
  }
 #content {
-background-color:#fdfdb19c;
+background-color: hsl(14, 100%, 53%);
 width:70%;
 height:800px;
 
@@ -94,14 +94,14 @@ table, th, td {
 
 .footer{
 float: center;
-background-color:	rgba(161, 42, 165, 0.767);
+background-color: rgb(50, 115, 220);
 color:rgb(223, 245, 223);
 width:98%;
 text-align: center;
 }
 .header{
 float: center;
-background:	rgba(161, 42, 165, 0.767);
+background-color: rgb(50, 115, 220);
 width:98%;
 height:140px;
 }
